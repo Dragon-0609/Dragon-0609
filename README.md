@@ -1,4 +1,4 @@
-An open-source project developer, artist.
+A game developer in Unity, open-source project developer
 
 My top 5 animes:
  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=F7C749&center=true&random=true&width=600&height=75&lines=Sword+Art+Online;Tonikawa%3A+Over+the+Moon+for+You;Arifureta%3A+From+Commonplace+to+World's+Strongest;Senryu+Girl;The+Rising+of+the+Shield+Hero" alt="Typing SVG" /></a></h1>
